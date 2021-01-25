@@ -1,0 +1,24 @@
+/* fonts */
+@import url("https://fonts.googleapis.com/css2?family=Commissioner:wght@400;700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,400&display=swap");
+
+:root {
+  --lightBlue: #11abb0;
+  --darkestGray: #0f0f0f;
+
+  /* Dark Text on Light background */
+  --evenDarkerGray: #313131;
+  --white: #ffffff;
+
+  /* Dark Gray on medium Background */
+  --black: #040b0eff;
+  --lighterGray: #eaf2efff;
+
+  /* Light Text on Dark background */
+  --lightestGray: #ebeeee;
+  --lightGray: #cccccc;
+  --darkGray: #333333;
+
+  /* fonts */
+  --sans-pro: "Source Sans Pro", sans-serif;
+  --commissioner: "Commissioner", sans-serif;
+}

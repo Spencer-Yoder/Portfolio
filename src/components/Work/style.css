@@ -1,0 +1,36 @@
+#work {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 50px 0px;
+  background: var(--darkGray);
+}
+
+.work-text {
+  font-size: 20px;
+  padding: 15px 300px;
+  color: var(--lightGray);
+}
+
+@media screen and (max-width: 1200px) {
+  .work-text {
+    font-size: 20px;
+    padding: 15px 200px;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .work-text {
+    font-size: 20px;
+    padding: 15px 100px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .work-text {
+    font-size: 18px;
+    padding: 15px 30px;
+  }
+}

@@ -1,0 +1,42 @@
+.page-container {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  font-family: var(--commissioner);
+}
+
+/* scrollbar */
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+::-webkit-scrollbar-track {
+  background: #886602;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #21323d;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #1b252c;
+}
+
+/* text-selection */
+p::selection,
+div::selection,
+h1::selection,
+h2::selection,
+h3::selection,
+a::selection {
+  color: var(--black);
+  background: #0c787b;
+}
+
+/* sweet alert */
+.swal-text {
+  font-family: var(--sans-pro);
+  font-weight: bold;
+}
