@@ -1,28 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe334c2f.chunk.css",
-    "main.js": "/static/js/main.2ea2c8ab.chunk.js",
-    "main.js.map": "/static/js/main.2ea2c8ab.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/js/2.b4587bc1.chunk.js": "/static/js/2.b4587bc1.chunk.js",
-    "static/js/2.b4587bc1.chunk.js.map": "/static/js/2.b4587bc1.chunk.js.map",
+    "main.css": "/static/css/main.9f7b5bf5.chunk.css",
+    "main.js": "/static/js/main.2fe76a59.chunk.js",
+    "main.js.map": "/static/js/main.2fe76a59.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2fd7dc15.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2fd7dc15.js.map",
+    "static/js/2.ec3cf65b.chunk.js": "/static/js/2.ec3cf65b.chunk.js",
+    "static/js/2.ec3cf65b.chunk.js.map": "/static/js/2.ec3cf65b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8e218614325e9cfb2ea110a22deb3e36.js": "/precache-manifest.8e218614325e9cfb2ea110a22deb3e36.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.fe334c2f.chunk.css.map": "/static/css/main.fe334c2f.chunk.css.map",
-    "static/js/2.b4587bc1.chunk.js.LICENSE.txt": "/static/js/2.b4587bc1.chunk.js.LICENSE.txt",
-    "static/media/close.svg": "/static/media/close.45ffa6f3.svg",
-    "static/media/download.svg": "/static/media/download.2a7860b6.svg",
-    "static/media/linkedin.svg": "/static/media/linkedin.0f7f2430.svg",
-    "static/media/menu.svg": "/static/media/menu.8c18a2d7.svg",
-    "static/media/pihole.png": "/static/media/pihole.dc8e0e51.png",
-    "static/media/website.png": "/static/media/website.2c6a6d27.png"
+    "static/css/main.9f7b5bf5.chunk.css.map": "/static/css/main.9f7b5bf5.chunk.css.map",
+    "static/js/2.ec3cf65b.chunk.js.LICENSE.txt": "/static/js/2.ec3cf65b.chunk.js.LICENSE.txt",
+    "static/media/close.7b762c54.svg": "/static/media/close.7b762c54.svg",
+    "static/media/download.ba1b61e9.svg": "/static/media/download.ba1b61e9.svg",
+    "static/media/linkedin.db80b661.svg": "/static/media/linkedin.db80b661.svg",
+    "static/media/menu.eb4efe2e.svg": "/static/media/menu.eb4efe2e.svg",
+    "static/media/pihole.fb26d67d.png": "/static/media/pihole.fb26d67d.png",
+    "static/media/website.9caddc3d.png": "/static/media/website.9caddc3d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.19ccc7f6.js",
-    "static/js/2.b4587bc1.chunk.js",
-    "static/css/main.fe334c2f.chunk.css",
-    "static/js/main.2ea2c8ab.chunk.js"
+    "static/js/runtime-main.2fd7dc15.js",
+    "static/js/2.ec3cf65b.chunk.js",
+    "static/css/main.9f7b5bf5.chunk.css",
+    "static/js/main.2fe76a59.chunk.js"
   ]
 }
