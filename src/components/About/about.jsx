@@ -14,7 +14,8 @@ const About = () => {
           Hey! I'm a Chiacgo based Mobile App Developer. Currently working at
           Discover Financial Services to produce an award winning Mobile app
           that provides customers a great user experience. When I am not at
-          work, I like to spend my time learning new and existing skills.
+          work, I like to spend my time learning new skills and improving on
+          existing ones.
         </p>
         <p>
           I’m passionate about learning the latest and greatest technologies
