@@ -12,7 +12,7 @@ const About = () => {
       <div className="about-description-container">
         <p className="first-letter">
           Hey! I'm a Chiacgo based Mobile App Developer. Currently working at
-          Discover Financial Services to produce an award winning Mobile app
+          Divvy Pay to produce an award winning Mobile app
           that provides customers a great user experience. When I am not at
           work, I like to spend my time learning new skills and improving on
           existing ones.
@@ -41,6 +41,7 @@ const About = () => {
             href="https://www.linkedin.com/in/spencer-yoder/"
             target="_blank"
             className="download-button"
+            rel="noreferrer"
           >
             <img
               src={download}

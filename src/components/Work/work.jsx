@@ -8,12 +8,20 @@ const Work = () => {
       <SectionTitle title={"Work History"} color="#ebeeee" />
       <div className="work-container">
         <div className="work-text">
-          <p className="work-p1">Discover Financial Services</p>
+          <p className="work-p1">Divvy</p>
           <p className="work-p2">
-            Mobile App Developer - React Native • Jan 2019 – Present
+            Mobile Engineer II • April 2021 – Present
           </p>
           <p className="work-p3">
             Developed React Native mobile application for both IOS and Android.
+          </p>
+
+          <p className="work-p1">Discover Financial Services</p>
+          <p className="work-p2">
+            Mobile App Developer - React Native • Jan 2019 – April 2021
+          </p>
+          <p className="work-p3">
+            Created elegant UI features using React Native for the award winning Discover Android and iOS Mobile App with over 15 million downloads on the app stores. This provided customers a great user experience when accessing their Discover accounts. I was able to use data analytics from users sessions and crash reporting data, to improve the overall experience in the app. Using a testing first mentality, all new code that I wrote was 100% tested using unit and e2e automation testing. I worked on and maintained, the CI/CD pipeline on GitHub Actions to create a highly automated developer workflow. This in turn helped provide the business the most value, and time to create new and advanced features. I have advanced my knowledge of agile and have lead many ceremonies, to keep projects and goals on schedule.
           </p>
 
           <p className="work-p1">Discover Financial Services</p>
