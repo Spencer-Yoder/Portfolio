@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>S Yoder</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+        background: linear-gradient(to bottom, #3a7bd5, #00d2ff);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+
+      .container {
+        background-color: white;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+        text-align: center;
+        max-width: 800px;
+        width: 100%;
+      }
+
+      .name {
+        font-size: 2em;
+        margin-bottom: 10px;
+      }
+
+      .intro {
+        font-size: 1.2em;
+        color: #555;
+        margin-bottom: 20px;
+      }
+
+      .sub {
+        font-size: 0.8em;
+        color: #555;
+        margin-bottom: 10px;
+      }
+
+      .links a {
+        display: block;
+        margin: 10px 0;
+        color: #0077b5;
+        text-decoration: none;
+        font-size: 1.2em;
+      }
+
+      .links a:hover {
+        text-decoration: underline;
+      }
+
+      .download-btn {
+        padding: 10px 20px;
+        font-size: 1em;
+        color: white;
+        background-color: #0077b5;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+
+      .download-btn:hover {
+        background-color: #005a87;
+      }
+
+      .footer {
+        margin-top: 20px;
+        font-size: 0.8em;
+        color: gray;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="name">Spencer Yoder</div>
+      <div class="intro">
+        Welcome to my personal website! Here you'll find links to my GitHub and
+        LinkedIn profiles, and you can download my public GPG key. Feel free to
+        explore and connect with me.
+      </div>
+      <div class="links">
+        <a href="https://github.com/Spencer-Yoder" target="_blank">GitHub</a>
+        <a href="https://www.linkedin.com/in/spencer-yoder" target="_blank"
+          >LinkedIn</a
+        >
+      </div>
+      <div class="sub">
+        GPG Fingerprint: A6BD 49DD 4A09 5B7C 1A99 D4B0 3F22 3591 985B ADF0
+      </div>
+      <button class="download-btn" onclick="downloadKey()">
+        Download GPG Key
+      </button>
+      <div class="footer">&copy; 2024 Spencer Yoder. All rights reserved.</div>
+    </div>
+
+    <script>
+      function downloadKey() {
+        window.location.href = "Yoder_0x985BADF0_public.asc";
+      }
+    </script>
+  </body>
+</html>
